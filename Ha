@@ -1,1 +1,21 @@
-alert("Diemlo")
+ #set in debug
+
+    bot_token = '5455734951:AAG78MT6m4dTwbAi7pm0vLRDLh0K0EXaUKk'
+    bot.editMessegerText(messege
+                 ,'Hola')
+      Loged = @user
+             @user("   ")
+             heroku login
+
+git init
+
+heroku git:remote   -a
+ nombre_de_la_app_en_heroku
+git add  .
+
+git commit  -am  "Samuel es un crack"
+
+git push heroku master
+alert("sedfiles")
+   bot.editMessegerText(messeger
+                     ,'bien
